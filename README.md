@@ -1,2 +1,3 @@
-# M-dia-em-C-
-Calculando a media de alunos em C# dotnet
+# Média-em-C#
+Calculando a media de alunos em C# dotnet, usando vetor, struct, condicionais, switch ...
+
